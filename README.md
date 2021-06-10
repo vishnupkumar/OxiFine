@@ -1,5 +1,5 @@
 # OxiFine
-Redefining Oximetrics
+*Redefining Oximetrics*
 
 Made by:-
 - Vishnu P Kumar

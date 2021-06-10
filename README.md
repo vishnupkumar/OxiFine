@@ -24,5 +24,5 @@ OxiFine is an open-source Pulse Oximeter device made using minimal components an
 
 Components Used
 
-NodeMCU [Buy it here](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B081CSJV2V/ref=sr_1_3)
-MAX30100 [Buy it here](https://www.amazon.com/DollaTek-MAX30100-Heart-Rate-Oximeter-Pulsesensor/dp/B07DK6PF2Y/ref=sr_1_2)
+1. NodeMCU [Buy it here](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B081CSJV2V/ref=sr_1_3)
+2. MAX30100 [Buy it here](https://www.amazon.com/DollaTek-MAX30100-Heart-Rate-Oximeter-Pulsesensor/dp/B07DK6PF2Y/ref=sr_1_2)

@@ -8,9 +8,9 @@ Made by:-
 - Mar Baselios College of Engineering and Technology
 
 Guided by:-
-- Arun JS,
-- Assistant Professor,
-- Department of Electronics and Communication Engineering,
+- Arun JS
+- Assistant Professor
+- Department of Electronics and Communication Engineering
 - Mar Baselios College of Engineering and Technology
 
 

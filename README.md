@@ -22,6 +22,10 @@ OxiFine is an open-source Pulse Oximeter device made using minimal components an
 
 [See the model here ](https://a360.co/3g6MCbJ)
 
+## Blynk Application
+
+![](Images/app.jpeg)
+
 ## Components Used
 
 1. NodeMCU [Buy it here](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B081CSJV2V/ref=sr_1_3)

@@ -23,10 +23,6 @@ OxiFine is an open-source Pulse Oximeter device made using minimal components an
 
 [See the model here ](https://a360.co/3g6MCbJ)
 
-## Internal View
-
-![](Images/internal.jpeg)
-
 ## Blynk Application
 
 ![](Images/app.jpeg)
@@ -41,4 +37,8 @@ OxiFine is an open-source Pulse Oximeter device made using minimal components an
 ![](Images/circuit.jpg)
 
 SPI Communication is being used to communicate with the MAX30100 Pulse Oximeter Module.
+
+## Internal View
+
+![](Images/internal.jpeg)
 

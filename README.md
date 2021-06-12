@@ -46,12 +46,4 @@ SPI Communication is being used to communicate with the MAX30100 Pulse Oximeter 
 There are two types of Pulse Oximeters currently available in the market. They are reflectance type and transmission type. OxiFine is a reflectance type pulse oximeter. The accuracy test was performed at Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Trivandrum, India.
 The Avon Pulse Oximeter which was validated for accuracy using Prosim 8 Pulse Oximeter tester, was used to compare with OxiFine and the test results were as follows.
 
-Person	Pulse Rate (bpm)	SpO2 (%)
-	Avon Meter	OxiFine	Avon Meter	OxiFine
-1	72	72	98	98
-2	71	72	98	98
-3	68	66	98	100
-4	61	62	98	98
-5	66	66	98	98
-6	72	72	98	98
-7	75	75	98	98
+![](Images/result.jpg)

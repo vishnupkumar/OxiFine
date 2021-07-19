@@ -29,18 +29,14 @@ OxiFine is an open-source Pulse Oximeter device made using minimal components an
 
 ## Components Used
 
-1. NodeMCU [Buy it here](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B081CSJV2V/ref=sr_1_3)
-2. MAX30100 [Buy it here](https://www.amazon.com/DollaTek-MAX30100-Heart-Rate-Oximeter-Pulsesensor/dp/B07DK6PF2Y/ref=sr_1_2)
+1. NodeMCU D1 Mini [Buy it here](https://www.amazon.in/Arduino-D1-Mini-V2-Development/dp/B01FMJ0H2Y)
+2. MAX30100 [Buy it here](https://www.amazon.com/DollaTek-MAX30100-Heart-Rate-Oximeter-Pulsesensor/dp/B07DK6PF2Y)
 
 ## Circuit Diagram
 
 ![](Images/circuit.jpg)
 
 SPI Communication is being used to communicate with the MAX30100 Pulse Oximeter Module.
-
-## Internal View
-
-![](Images/internal.jpeg)
 
 ## Test Results
 There are two types of Pulse Oximeters currently available in the market. They are reflectance type and transmission type. OxiFine is a reflectance type pulse oximeter. The accuracy test was performed at Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Trivandrum, India.

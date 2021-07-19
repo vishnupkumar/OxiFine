@@ -19,7 +19,7 @@ OxiFine is an open-source Pulse Oximeter device made using minimal components an
 
 ## 3D CAD Model
 
-![](Images/v2_1.jpg)  ![](Images/v2_2.jpg)
+![](Images/v2_1.jpg)  ![](Images/v2_1.jpg)
 
 [See the model here ](https://a360.co/3g6MCbJ)
 

@@ -25,7 +25,7 @@ OxiFine is an open-source Pulse Oximeter device made using minimal components an
 
 ## Blynk Application
 
-![](Images/app.jpeg)
+![](Images/app.jpg)
 
 ## Components Used
 
